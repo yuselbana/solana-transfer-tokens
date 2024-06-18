@@ -1,2 +1,2 @@
-Transfer Solana tokens on the devnet.
+transfer solana on devnet.
 
